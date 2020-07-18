@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shilpi Agg shilpi275@gmail.com 
 
 # THANKS
 
